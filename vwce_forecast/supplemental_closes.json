@@ -1,0 +1,17 @@
+{
+  "ticker": "VWCE.DE",
+  "isin": "IE00BK5BQT80",
+  "market": "XETR",
+  "source": "Deutsche Börse Xetra",
+  "source_url": "https://api.boerse-frankfurt.de/v1/data/price_history?limit=50&offset=0&isin=IE00BK5BQT80&mic=XETR&minDate=2025-10-20&maxDate=2025-10-28",
+  "retrieved_on": "2026-10-26",
+  "rows": {"2025-10-24": {"Open": 143.56, "High": 144.12, "Low": 143.24, "Close": 144.10, "Volume": 96556}},
+  "comparison_yahoo_closes": {
+    "2025-10-20": 142.66,
+    "2025-10-21": 143.12,
+    "2025-10-22": 142.38,
+    "2025-10-23": 143.00,
+    "2025-10-27": 145.04,
+    "2025-10-28": 145.22
+  }
+}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/
+output/
+output_full_history/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+.env.*
+!.env.example
+.DS_Store

@@ -1,0 +1,9 @@
+numpy==2.3.4
+pandas==2.3.3
+plotly==6.3.1
+yfinance==0.2.66
+exchange-calendars==4.11.2
+torch==2.8.0
+filelock==4.2.4
+requests==2.34.2
+timestral @ git+https://github.com/mistralai/timestral.git@a534bdbd244d64f3d9d743f46c7bf6fc330ed4ff
